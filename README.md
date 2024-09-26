@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
+<a href="https://twitter.com/Ascoos" alt="X">
+  <img src="https://img.shields.io/twitter/follow/Ascoos?label=Follow us&style=social" />
+</a>
+<a href="https://www.linkedin.com/in/ascoos/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-ASCOOS%20CMS-purple?logo=linkedin&logoColor=blue&color=blue" />
+</a>
+
+***
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ascoos&theme=github_dark) 
 
