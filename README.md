@@ -1,5 +1,7 @@
 # Hi there 👋
 
+🔭 I’m currently working on Ascoos Web Extended Studio (AWES) and Ascoos Cms.
+
 <a href="https://twitter.com/Ascoos" alt="X">
   <img src="https://img.shields.io/twitter/follow/Ascoos?label=Follow us&style=social" />
 </a><a href="https://www.linkedin.com/in/ascoos/" alt="LinkedIn">
