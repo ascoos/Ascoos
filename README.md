@@ -2,7 +2,13 @@
 
 ## 🔭 I’m currently working on Ascoos Web Extended Studio (AWES) and Ascoos Cms.
 
-[![PHP Classes](https://img.shields.io/badge/php-classes-blue.svg)](https://www.phpclasses.org/browse/author/318336.html)
+![Website](https://img.shields.io/website?url=https://www.ascoos.com) 
+[![PHP Classes](https://img.shields.io/badge/php-classes-blue.svg)](https://www.phpclasses.org/browse/author/318336.html) 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ascoos) 
+
+
+
+
 
 ***
 
