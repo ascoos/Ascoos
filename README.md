@@ -2,13 +2,14 @@
 
 ## 🔭 I’m currently working on Ascoos Web Extended Studio (AWES) and Ascoos Cms.
 
-[![Website](https://img.shields.io/website?url=https://www.ascoos.com)](https://www.ascoos.com) 
-[![PHP Classes](https://img.shields.io/badge/php-classes-blue.svg)](https://www.phpclasses.org/browse/author/318336.html) 
+![Ascoos](https://komarev.com/ghpvc/?username=ascoos&label=Profile%20views&color=0e75b6&style=flat)
+[![Official Website](https://img.shields.io/website?url=https://www.ascoos.com)](https://www.ascoos.com) 
+[![Ascoos on Sourceforge](https://img.shields.io/badge/Sourceforge-Ascoos-orange.svg)](https://sourceforge.net/u/ascoos/profile/) 
+[![Ascoos on PHP Classes](https://img.shields.io/badge/php-classes-blue.svg)](https://www.phpclasses.org/browse/author/318336.html) 
+
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ascoos) 
-
-
-
-
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSXEgwKou_sV0D6ZWOaih5w)
 
 ***
 
