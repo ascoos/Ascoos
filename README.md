@@ -7,9 +7,9 @@
 [![Ascoos on Sourceforge](https://img.shields.io/badge/Sourceforge-Ascoos-orange.svg)](https://sourceforge.net/u/ascoos/profile/) 
 [![Ascoos on PHP Classes](https://img.shields.io/badge/php-classes-blue.svg)](https://www.phpclasses.org/browse/author/318336.html) 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ascoos) 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSXEgwKou_sV0D6ZWOaih5w)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ascoos)](http://x.com/ascoos)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)
 
 ***
 
