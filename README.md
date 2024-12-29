@@ -24,18 +24,11 @@
 ---
 
 # Languages
-[![Assembly](https://img.shields.io/badge/Assembly-purple?style=for-the-badge&logo=assembly)](https://github.com/ascoos)
-[![Pascal](https://img.shields.io/badge/pascal-darkgreen?style=for-the-badge&logo=delphi)](https://github.com/ascoos)
 [![Delphi](https://img.shields.io/badge/delphi-darkred?style=for-the-badge&logo=delphi)](https://github.com/ascoos)
-[![C](https://img.shields.io/badge/c-darkblue?style=for-the-badge&logo=c)](https://github.com/ascoos)
 [![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=c)](https://github.com/ascoos)
-[![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)](https://github.com/ascoos)
-
-## Web
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/ascoos)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/ascoos)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/ascoos)
-[![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=javascript)](https://github.com/ascoos)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ascoos)
 
 ## Databases
