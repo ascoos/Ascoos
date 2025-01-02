@@ -29,8 +29,9 @@
 ![Delphi](https://img.shields.io/badge/delphi-darkred.svg?style=for-the-badge&logo=delphi&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-%23217346?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/html%205-%23F05033?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/css%203-3670A0?style=for-the-badge&logo=css3&logoColor=white)
